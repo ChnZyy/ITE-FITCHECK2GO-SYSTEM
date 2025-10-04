@@ -135,13 +135,11 @@ A visual project timeline including:
 
 ## Suggested Repository Structure
 
-FitCheck-2GO/
-│
-├── frontend/            HTML, CSS, JavaScript files  
-├── backend/             PHP files and server logic  
-├── database/            SQL schema and sample data  
-├── docs/                Project documentation including diagrams and reports  
-├── README.md            This file  
+├── frontend/           HTML, CSS, JavaScript files  
+├── backend/            PHP files and server logic  
+├── database/           SQL schema and sample data  
+├── docs/               Project documentation including diagrams and reports  
+├── README.md           This file  
 
 ---
 
