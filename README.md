@@ -1,6 +1,6 @@
 # FitCheck 2GO - Web-based Wardrobe Management and Outfit Planning System
 
-FitCheck 2GO is a web-based wardrobe management and outfit suggestion platform that allows users to virtually upload, categorize, and organize clothing items. It enables the creation of personalized outfit combinations while incorporating role-based access for content moderation and administrative control.
+FitCheck 2GO is a web-based application designed to help users manage their wardrobes and plan outfits efficiently. The system allows users to catalog their clothing items, organize them by category, and generate outfit combinations automatically. It features dedicated admin and moderator roles for effective content and user management, supported by a robust database for secure data storage and retrieval. The user interface is designed to be minimalist, clean, and intuitive, providing a smooth and engaging experience for all users.
 
 ---
 
