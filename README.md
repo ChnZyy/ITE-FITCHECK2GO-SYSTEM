@@ -8,7 +8,7 @@ FitCheck 2GO is a web-based application designed to help users manage their ward
 
 # Objectives
 - Simplify outfit selection and wardrobe organization through a digital platform
-- Enable users to upload, categorize, and manage virtual clothing items
+- Enable users to categorize, and manage virtual clothing items
 - Provide tools to create, save, and reuse outfit combinations
 - Implement role-based access controls (user, moderator, admin) for secure and moderated use
 
