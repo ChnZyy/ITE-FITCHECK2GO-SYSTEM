@@ -135,7 +135,7 @@ A visual project timeline including:
 
 ## Suggested Repository Structure
 
-├── frontend/           HTML, CSS, JavaScript files  
+├── frontend/           HTML, CSS, Javascript
 ├── backend/            PHP files and server logic  
 ├── database/           SQL schema and sample data  
 ├── docs/               Project documentation including diagrams and reports  
